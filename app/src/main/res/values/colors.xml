@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="colorBlack">#000000</color>
+    <color name="colorTurquoise">#1abc9c</color>
+    <color name="colorCityLights">#dfe6e9</color>
 </resources>
